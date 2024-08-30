@@ -27,7 +27,7 @@ This project demonstrates how to use the [Student Grade Predictor](https://sedth
     - 4: Higher
 - **Study Habits**
     - **StudyTimeWeekly**: Weekly study time in hours, ranging from 0 to 20.
-    - Absences: Number of absences during the school year, ranging from 0 to 30.
+    - **Absences**: Number of absences during the school year, ranging from 0 to 30.
     - **Tutoring**: Tutoring status, where 0 indicates No and 1 indicates Yes.
 - **Parental Involvement**
     - **ParentalSupport**: The level of parental support, coded as follows:
