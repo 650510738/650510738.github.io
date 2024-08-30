@@ -1,12 +1,10 @@
-229352 SEC001
-650510738 เสฎฐนันท์ หาญขำพงษ์
+# 229352 SEC001
+# 650510738 เสฎฐนันท์ หาญขำพงษ์
 
 # Student Grade Predictor Model
-
 Web page that embeds the Student Grade Predictor model hosted on Hugging Face.
 
 ## Overview
-
 This project demonstrates how to use the [Student Grade Predictor](https://sedthananh-studentgradepredictor.hf.space) model from Hugging Face. The model is embedded in a simple HTML page using Gradio. (Use  **RandomForestClassifier**)
 
 ## Model Details
