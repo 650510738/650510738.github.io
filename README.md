@@ -6,7 +6,7 @@ This repository contains a web page that embeds the Student Grade Predictor mode
 
 ## Overview
 
-This project demonstrates how to use the [Student Grade Predictor](https://sedthananh-studentgradepredictor.hf.space) model from Hugging Face. The model is embedded in a simple HTML page using Gradio.
+This project demonstrates how to use the [Student Grade Predictor](https://sedthananh-studentgradepredictor.hf.space) model from Hugging Face. The model is embedded in a simple HTML page using Gradio. (USE **RandomForestClassifier**)
 
 ## Model Details
 
