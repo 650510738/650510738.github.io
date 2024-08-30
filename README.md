@@ -1,6 +1,6 @@
 # 229352 SEC001
 # 650510738 เสฎฐนันท์ หาญขำพงษ์
-# Student Grade Predictor
+# Student Grade Predictor Model
 
 This repository contains a web page that embeds the Student Grade Predictor model hosted on Hugging Face.
 
